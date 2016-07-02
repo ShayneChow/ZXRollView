@@ -6,3 +6,5 @@
 
 ![功能演示](https://github.com/ShayneChow/ZXRollView/blob/master/ScreenShot/ZXRollView.gif)
 
+![功能演示](https://github.com/ShayneChow/ZXRollView/blob/master/ScreenShot/ZXRollViewDemo.gif)
+
