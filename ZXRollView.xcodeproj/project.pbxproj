@@ -13,6 +13,7 @@
 		F09434D61D266D8D00026C0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F09434D41D266D8D00026C0E /* Main.storyboard */; };
 		F09434D81D266D8D00026C0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F09434D71D266D8D00026C0E /* Assets.xcassets */; };
 		F09434DB1D266D8D00026C0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F09434D91D266D8D00026C0E /* LaunchScreen.storyboard */; };
+		F09434E41D266DDA00026C0E /* ZXRollView.m in Sources */ = {isa = PBXBuildFile; fileRef = F09434E31D266DDA00026C0E /* ZXRollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		F09434D71D266D8D00026C0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F09434DA1D266D8D00026C0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F09434DC1D266D8D00026C0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F09434E21D266DDA00026C0E /* ZXRollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXRollView.h; sourceTree = "<group>"; };
+		F09434E31D266DDA00026C0E /* ZXRollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXRollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				F09434CF1D266D8D00026C0E /* AppDelegate.m */,
 				F09434D11D266D8D00026C0E /* ViewController.h */,
 				F09434D21D266D8D00026C0E /* ViewController.m */,
+				F09434E21D266DDA00026C0E /* ZXRollView.h */,
+				F09434E31D266DDA00026C0E /* ZXRollView.m */,
 				F09434D41D266D8D00026C0E /* Main.storyboard */,
 				F09434D71D266D8D00026C0E /* Assets.xcassets */,
 				F09434D91D266D8D00026C0E /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F09434D31D266D8D00026C0E /* ViewController.m in Sources */,
+				F09434E41D266DDA00026C0E /* ZXRollView.m in Sources */,
 				F09434D01D266D8D00026C0E /* AppDelegate.m in Sources */,
 				F09434CD1D266D8D00026C0E /* main.m in Sources */,
 			);
